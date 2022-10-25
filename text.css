@@ -1,0 +1,76 @@
+
+#font{
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 30px;
+  }
+
+  #deal{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+
+  #sale{
+    font-family: Arial;
+    font-style: italic;
+   margin-top: 0;
+   font-size: 18px;
+   color: rgba(247, 6, 6, 0.959);
+  }
+
+  #gs{
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    border: none;
+    width: 90px;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 25px;
+  }
+
+  #html{
+    font-family: Verdana;
+    margin-top: 0;
+   margin-bottom: 0;
+   font-weight: bold; 
+  }
+
+  #in{
+    color: rgb(100, 100, 100);
+    margin-top: 0;
+  }
+
+  #the{
+    width: 300px;
+    font-size: 15px;
+    line-height: 18px;
+  }
+
+  .shop{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+
+  .see{
+    font-size: 13px;
+  margin-top: 5px;
+  margin-left: 50px;
+  line-height: 25px;
+  margin-bottom: 0;
+  }
+
+  .link{
+    color: rgb(66, 123, 209);
+    line-height: 3px;
+    margin-left: 85px;
+  }
+
+  .link:hover{
+    text-decoration: underline;
+  }
+
+  

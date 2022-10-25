@@ -1,0 +1,172 @@
+.sub{
+  background-color: rgb(200, 0, 0);
+  color: WHITE;
+  border: none;
+  height: 36px;
+  width: 106px;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: gree;
+  transition: opacity 0.15s;
+  transition: box-shadow 0.15s;
+}
+.sub:hover{
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+  
+}
+
+.sub:hover{
+  opacity: 0.8;
+  
+}
+.sub:active{
+ opacity: 0.5;
+ 
+}
+.joy{
+  background-color: white;
+  color: blue;
+  border-color: rgb(9, 9, 104);
+  border-style: solid;
+  height: 36px;
+  width: 62px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: background-color 1s,color 1s;
+}
+
+.joy:hover{
+  background-color:rgb(9, 9, 104);
+  color: white;
+}
+.joy:active{
+  opacity: 0.7;
+}
+
+.tw{
+  background-color: rgb(2, 157, 255);
+  color: white;
+  border-radius: 18px;
+  height: 40px;
+  width: 90px;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  border-style: solid;
+  margin-left: 8px;
+  margin-bottom: 19px;
+}
+
+.rn{
+  background-color: black;
+  color: white;
+  margin-bottom: 18px;
+  width: 100px;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 35px;
+}
+
+.atc{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  margin-bottom: 18px;
+  border: none;
+  width: 140px;
+  font-weight: bolder;
+  border-radius: 100px;
+  cursor: pointer;
+  height: 35px;
+}
+
+.su{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  margin-bottom: 18px;
+  border: none;
+  width: 80px;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-left: 10px;
+  cursor: pointer;
+  height: 35px;
+}
+
+#gs{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  width: 110px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+}
+
+
+#dn{
+  color: rgb(108, 117, 125);
+  background-color: white;
+  width: 110px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  height: 35px;
+  border-width: 1px;
+}
+
+#aw{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  margin-bottom: 50px;
+  width: 220px;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+}
+
+#s{
+  background-color: white;
+  color: blue;
+  width: 70px;
+  border-width: 1px;
+  border-color: blue;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+}
+
+a{
+  color: rgb(0, 113, 133);
+}
+
+.st{
+  color: rgb(0, 118, 0);
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+#fd
+{
+  font-size: 20px;
+}
+
+.bn{
+  background-color: rgb(255,164,28);
+  font-weight: bolder;
+  color: black;
+  border: none;
+  height: 35px;
+  border-radius: 20px;
+  width: 140px;
+  margin-left: 10px;
+  cursor: pointer;
+
+}

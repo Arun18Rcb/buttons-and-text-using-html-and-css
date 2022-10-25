@@ -1,0 +1,160 @@
+.rn{
+  background-color: black;
+  color: white;
+  margin-bottom: 18px;
+  width: 100px;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 35px;
+}
+.rn:hover{
+  opacity: 0.80;
+}
+.rn:active{
+  opacity: 0.5;
+}
+
+.atc{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  margin-bottom: 18px;
+  border: none;
+  width: 140px;
+  font-weight: bolder;
+  border-radius: 100px;
+  cursor: pointer;
+  height: 35px;
+  transition: background-color 0.15s, border-width 0.15s;
+}
+
+.atc:hover{
+  background-color: rgb(245, 216, 30);
+  opacity: 0.8;
+}
+
+.atc:active{
+  opacity: 0.5;
+}
+
+.su{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  margin-bottom: 18px;
+  border: none;
+  width: 80px;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-left: 10px;
+  cursor: pointer;
+  height: 35px;
+}
+
+.su:hover{
+opacity: 0.80;
+  box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.15);
+}
+
+#gs{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  width: 110px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+}
+
+
+#dn{
+  color: rgb(108, 117, 125);
+  background-color: white;
+  width: 110px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  height: 35px;
+  border-width: 1px;
+}
+
+#gs:hover{
+  background-color:rgb(63, 38, 100);
+}
+
+#dn:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+#s{
+  background-color: white;
+  color: blue;
+  width: 70px;
+  border-width: 1px;
+  border-color: blue;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+}
+
+#aw{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  margin-bottom: 50px;
+  width: 220px;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+}
+
+#aw:hover{
+  background-color: rgb(2, 70, 138);
+}
+
+#s:hover{
+  border-width: 2px;
+  background-color: rgb(203, 203, 235);
+}
+
+a{
+  color: rgb(0, 113, 133);
+}
+
+a:hover{
+  color:  rgb(245, 98, 13);
+}
+
+.st{
+  color: rgb(0, 118, 0);
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+#fd
+{
+  font-size: 20px;
+}
+
+.bn{
+  background-color: rgb(245, 98, 13);
+  font-weight: bolder;
+  color: black;
+  border: none;
+  height: 35px;
+  border-radius: 20px;
+  width: 140px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.bn:hover{
+  background-color: rgb(243, 74, 7);
+}
+.bn:active{
+  opacity: 0.8;
+}
